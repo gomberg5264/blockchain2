@@ -33,6 +33,6 @@
     "bchaddrjs-slp": "^0.2.8",
     "bignumber.js": "^9.0.0",
     "lodash-es": "^4.17.15",
-    "slpjs": "^0.23.0"
+    "slpjs": "^0.27.4"
   }
 }
